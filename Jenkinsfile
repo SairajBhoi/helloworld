@@ -9,7 +9,7 @@ node {
       } 
     stage('run'){
       {
-         bat 'java HelloWorld.main'
+         bat 'java HelloWorld'
       } 
   }
   }
