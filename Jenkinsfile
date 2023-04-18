@@ -12,3 +12,5 @@ node {
          bat 'java HelloWorld.main'
       } 
   }
+  }
+}
